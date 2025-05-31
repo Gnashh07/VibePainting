@@ -26,7 +26,7 @@ st.set_page_config(
 )
 
 st.markdown("<h1 style='text-align: center; font-size: 130px;'>isaac.</h1>", unsafe_allow_html=True)    
-st.markdown("<h3 style='text-align: center;'>local himalayan zen</h3>", unsafe_allow_html=True)
+st.markdown("<h3 style='text-align: center;'>your local himalayan zen, residing at the renaissance.</h3>", unsafe_allow_html=True)
 st.markdown("<h5 style='text-align: center;'>upload your artwork and recieve blessings!</h5>", unsafe_allow_html=True)
 
 st.markdown("<hr>", unsafe_allow_html=True)
